@@ -1,0 +1,11 @@
+
+Algorithm:
+
+1. Ask the user what item they are getting from the grocery.
+2. Ask the user the quantity of that item.
+3. Ask the cost per unit.
+4. Calculate the total of the first item by multiplying the quantity of the items with the cost per unit.
+5. Repeat steps 1-4, to acquire the information for the second item, and to output the total cost of item 2.
+6. To get the final total, add up both items total cost.
+7. Print each both item, its quantity, cost per unit, the total of each item individually, and the final total.
+
